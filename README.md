@@ -5,4 +5,4 @@ This will be built with a common backend (ASP.NET Core Web API) and 2 front ends
 
 Enjoy amkng as much or as little of a recipe as you want and feel the freedom of not being encumbered by massive amounts of scrolling and mind numbing ads.
 
-This software is unlicensed nad free to all forever and always.  It is my contribution to ending world hunger.  Eat, Drink, Code, and Be Merry.
+This software is unlicensed and free to all forever and always.  It is my contribution to ending world hunger.  Eat, Drink, Code, and Be Merry.
